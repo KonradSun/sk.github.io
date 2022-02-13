@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## 孙康
 
-You can use the [editor on GitHub](https://github.com/KonradSun/sk.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+山东莱州人，山东大学法学院助理研究员
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人学历
 
-### Markdown
+2011—2015，华东政法大学，法学学士
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2015—2017，浙江大学，法学硕士（法律史），推荐免试入学
 
-```markdown
-Syntax highlighted code block
+2017—2020，浙江大学，法学博士（法学理论），推荐免试入学
 
-# Header 1
-## Header 2
-### Header 3
+### 研究领域
 
-- Bulleted
-- List
+中国法制史，法理学，中共党史
 
-1. Numbered
-2. List
+### 学术成果
 
-**Bold** and _Italic_ and `Code` text
+1.《吏部四司条例》，社会科学文献出版社2021年版。
 
-[Link](url) and ![Image](src)
-```
+2.“如何认识立法资料？——以美国解释理论为视点”，载《湖北社会科学》2020（9）：136-145。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+3.“論作為法律人的朱執信”，载邱澎生教授总编：《法制史研究》第三十七期，（中国台湾地区人文学引文索核心期刊THCI Core：权威第二级），2020年12月出版。
 
-### Jekyll Themes
+4.“浙江大学法学院民国办学史片记”，载《浙大法律评论》（2018卷），杭州：浙江大学出版社2019年版：29-64。《浙江大学校史研究》全文转载。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KonradSun/sk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+5.“论《大宪章》人权保障精神及其递嬗”，载《绍兴文理学院学报（哲学社会科学）》，2016（2）：51-57。
 
-### Support or Contact
+6.“认识法学家朱执信：刍议朱执信宪政及法律思想的三个分期”，载陈景良等主编：《中西法律传统（第13卷）》，北京：中国政法大学出版社2017年版：352-375。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+7.“历史法学与进化论思潮之协奏——以穗积陈重的民法典制定为视点”，载何勤华主编：《外国法制史研究（第19卷·2016年）——民法典编纂的域外资源》，北京：法律出版社2016年版：258-276。
+
+8.“近代英国对《大宪章》的诠释——以柯克和布莱克斯通为中心”，载何勤华主编：《外国法制史研究（第18卷·2015年）——< 大宪章>800年》，北京：法律出版社2015年版：228-243。
+
+9.“实现国家治理体系和治理能力现代化的传统之维——以周世宗时期的社会治理为视点”，载《公安学刊（浙江警察学院学报）》2018（3）：51-57。
